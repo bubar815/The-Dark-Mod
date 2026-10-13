@@ -225,4 +225,4 @@ The Dark Mod is offered as a full free version with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-13 09:13:01 UTC
+**Last updated:** 2026-10-13 17:29:06 UTC
